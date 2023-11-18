@@ -1,17 +1,1 @@
-# Проектная работа 1 (Оно тебе надо)
-
-Учебный проект для Яндекс.Практикум.
-
-## Языки програмирования
-
-HTML5
-
-CSS
-
-## Доработать
-
-дороботать сглаживание верстки
-
-## Ссылка на github
-
-https://ya-strannik0013.github.io/ono-tebe-nado-AZ/
+https://github.com/ya-strannik0013/ono-tebe-nado-AZ
