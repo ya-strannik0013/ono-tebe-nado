@@ -13,3 +13,5 @@ CSS
 дороботать сглаживание верстки
 
 ## Ссылка на github
+
+https://ya-strannik0013.github.io/ono-tebe-nado-AZ/
