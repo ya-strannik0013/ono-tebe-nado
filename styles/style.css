@@ -106,12 +106,12 @@
 
 .aligned-text {
   text-align: left;
-  padding-bottom: 20px;
+  padding-bottom: 12px;
 }
 
 .aligned-text_center {
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 6px;
 }
 
 .aligned-text_right {
