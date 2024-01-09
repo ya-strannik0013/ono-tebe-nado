@@ -1,4 +1,5 @@
 /* body */
+
 .body {
   margin: auto;
   max-width: 1440px;
@@ -11,6 +12,7 @@
 }
 
 /* components */
+
 .address {
   display: flex;
   flex-direction: column;
@@ -29,7 +31,7 @@
 
 .overlay::after {
   content: '';
-  background-color: rgb(0, 0, 0, 0.6);
+  background-color: rgb(0 0 0 / 0.6);
   position: absolute;
   inset: 0;
 }
@@ -43,11 +45,12 @@
 }
 
 /* header */
+
 .header {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  padding: 89px 50px 95px 50px;
+  padding: 89px 50px 95px;
   align-items: center;
   font-size: 18px;
   line-height: 1.35;
@@ -80,12 +83,14 @@
 }
 
 /* main */
+
 .main {
   width: 100%;
   flex-grow: 1;
 }
 
 /* cover */
+
 .cover {
   display: flex;
   flex-direction: column;
@@ -145,7 +150,7 @@
 
 .bet-button {
   background-color: transparent;
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway, sans-serif;
   color: #fff;
   border: 1px solid currentColor;
   padding: 12px 32px;
@@ -158,6 +163,7 @@
 }
 
 /* lots */
+
 .lots {
   padding: 180px 50px 0;
 }
@@ -200,6 +206,7 @@
 }
 
 /* card */
+
 .card {
   display: flex;
   width: 100%;
@@ -243,6 +250,7 @@
 }
 
 /* about */
+
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -293,6 +301,7 @@
 }
 
 /* footer */
+
 .footer {
   width: 100%;
   display: grid;
@@ -309,6 +318,7 @@
 }
 
 /* social */
+
 .social {
   display: flex;
   column-gap: 48px;
